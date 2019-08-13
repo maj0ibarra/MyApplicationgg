@@ -99,12 +99,12 @@
                     app:cardElevation="16dp">
 
                     <ImageView
-                        android:id="@+id/imageView3"
+                        android:id="@+id/imageView31"
                         android:layout_width="821dp"
                         android:layout_height="193dp"
                         android:layout_marginLeft="-240dp"
                         android:layout_marginRight="16dp"
-                        app:srcCompat="@drawable/ubicacion" />
+                        app:srcCompat="@drawable/ekbalam" />
 
                 </androidx.cardview.widget.CardView>
 
@@ -133,6 +133,16 @@
                     app:cardCornerRadius="8dp"
                     app:cardElevation="16dp">
 
+
+                    <ImageView
+                        android:id="@+id/imageView4"
+                        android:layout_width="821dp"
+                        android:layout_height="193dp"
+                        android:layout_marginLeft="-240dp"
+                        android:layout_marginRight="16dp"
+                        app:srcCompat="@drawable/ubicacion" />
+
+
                 </androidx.cardview.widget.CardView>
 
                 <androidx.cardview.widget.CardView
@@ -158,6 +168,16 @@
                     app:cardBackgroundColor="#FF3D00"
                     app:cardCornerRadius="8dp"
                     app:cardElevation="16dp">
+
+
+                    <ImageView
+                        android:id="@+id/imageView5"
+                        android:layout_width="821dp"
+                        android:layout_height="193dp"
+                        android:layout_marginLeft="-240dp"
+                        android:layout_marginRight="16dp"
+                        app:srcCompat="@drawable/ubicacion" />
+
 
                 </androidx.cardview.widget.CardView>
 
@@ -185,6 +205,15 @@
                     app:cardCornerRadius="8dp"
                     app:cardElevation="16dp">
 
+                    <ImageView
+                        android:id="@+id/imageView6"
+                        android:layout_width="821dp"
+                        android:layout_height="193dp"
+                        android:layout_marginLeft="-240dp"
+                        android:layout_marginRight="16dp"
+                        app:srcCompat="@drawable/ubicacion" />
+
+
                 </androidx.cardview.widget.CardView>
 
                 <androidx.cardview.widget.CardView
@@ -210,6 +239,15 @@
                     app:cardBackgroundColor="#00E676"
                     app:cardCornerRadius="8dp"
                     app:cardElevation="16dp">
+
+                    <ImageView
+                        android:id="@+id/imageView7"
+                        android:layout_width="821dp"
+                        android:layout_height="193dp"
+                        android:layout_marginLeft="-240dp"
+                        android:layout_marginRight="16dp"
+                        app:srcCompat="@drawable/ubicacion" />
+
 
                 </androidx.cardview.widget.CardView>
 
@@ -237,6 +275,15 @@
                     app:cardCornerRadius="8dp"
                     app:cardElevation="16dp">
 
+                    <ImageView
+                        android:id="@+id/imageView3"
+                        android:layout_width="821dp"
+                        android:layout_height="193dp"
+                        android:layout_marginLeft="-240dp"
+                        android:layout_marginRight="16dp"
+                        app:srcCompat="@drawable/ubicacion" />
+
+
                 </androidx.cardview.widget.CardView>
 
                 <androidx.cardview.widget.CardView
@@ -262,6 +309,15 @@
                     app:cardBackgroundColor="#F50057"
                     app:cardCornerRadius="8dp"
                     app:cardElevation="16dp">
+
+
+                    <ImageView
+                        android:id="@+id/imageView8"
+                        android:layout_width="821dp"
+                        android:layout_height="193dp"
+                        android:layout_marginLeft="-240dp"
+                        android:layout_marginRight="16dp"
+                        app:srcCompat="@drawable/ubicacion" />
 
                 </androidx.cardview.widget.CardView>
 
@@ -289,6 +345,15 @@
                     app:cardCornerRadius="8dp"
                     app:cardElevation="16dp">
 
+
+                    <ImageView
+                        android:id="@+id/imageView9"
+                        android:layout_width="821dp"
+                        android:layout_height="193dp"
+                        android:layout_marginLeft="-240dp"
+                        android:layout_marginRight="16dp"
+                        app:srcCompat="@drawable/ubicacion" />
+
                 </androidx.cardview.widget.CardView>
 
 
@@ -315,6 +380,16 @@
                     app:cardBackgroundColor="#FF3D00"
                     app:cardCornerRadius="8dp"
                     app:cardElevation="16dp">
+
+
+                    <ImageView
+                        android:id="@+id/imageView10"
+                        android:layout_width="821dp"
+                        android:layout_height="193dp"
+                        android:layout_marginLeft="-240dp"
+                        android:layout_marginRight="16dp"
+                        app:srcCompat="@drawable/ubicacion" />
+
 
                 </androidx.cardview.widget.CardView>
 
